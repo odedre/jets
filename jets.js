@@ -8,3 +8,4 @@ var Jet = function (color, size) {
 }
 
 module.exports = Jet;
+
